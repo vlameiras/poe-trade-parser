@@ -1,4 +1,4 @@
-## POE.TRADE Scraper
+## Path of Exile Trade Parser
 
 This Python 3 script allows you to connect to https://www.pathofexile.com/trade and automatically be notified for items that are placed on public stash tabs and match a specific search pattern. When that occurs, the most recent item gets copied to your clipboard and allows you to instantly message the seller ingame.
 
